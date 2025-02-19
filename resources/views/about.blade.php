@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>About</title>
+        <title>{{$About}}</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -30,6 +30,6 @@
             </nav>
             
         </header>
-      <h1>about laravel</h1>
+      <h1>about page</h1>
     </body>
 </html>

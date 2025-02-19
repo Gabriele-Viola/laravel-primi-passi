@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>first</title>
+        <title>{{$homePage}}</title>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
